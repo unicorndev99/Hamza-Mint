@@ -1,0 +1,1 @@
+export const whiteList = ['0xDB1FE3c4B29FA6451B2FcEeA1644F0d7697F5542'];
